@@ -38,5 +38,5 @@ Before starting, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/resilient-email-service.git
+   git clone https://github.com/uttammane1/resilient-email-service-backend.git
    cd resilient-email-service
